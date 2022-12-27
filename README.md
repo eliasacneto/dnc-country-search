@@ -6,8 +6,5 @@
 
 ✅ Using <a href="https://getbootstrap.com/"> Bootstrap</a> <br />
 
-
-
-
 <img src="assets/images/01.png" alt="img">
 <img src="assets/images/02.png" alt="img">
